@@ -9,8 +9,8 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [The Meow Sea Shanties](docs/poem-1104.mp3)
-- [How To Grow Up Faster; Or, Thinking Outside Of The Box](docs/poem-1103.mp3)
-- [The Rebirth Of Venus; Or, The Making Of An Art Show In The Age Of Generative AI](docs/poem-1102.mp3)
-- [Programming Programming; Or, Notes On Making Program Structure More Informative](docs/poem-1101.mp3)
+- [The Meow Sea Shanties](blob/main/docs/poem-1104.mp3)
+- [How To Grow Up Faster; Or, Thinking Outside Of The Box](blob/main/docs/poem-1103.mp3)
+- [The Rebirth Of Venus; Or, The Making Of An Art Show In The Age Of Generative AI](blob/main/docs/poem-1102.mp3)
+- [Programming Programming; Or, Notes On Making Program Structure More Informative](blob/main/docs/poem-1101.mp3)
 

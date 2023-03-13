@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [One Language To Fix The World; Or, The Fancy Pantsy Programmer Cats](docs/poem-1106.mp3)
 - [A Game Of Chess With Infinite Complexity; Or, Return To Antwerp](docs/poem-1105.mp3)
 - [The Meow Sea Shanties](docs/poem-1104.mp3)
 - [How To Grow Up Faster; Or, Thinking Outside Of The Box](docs/poem-1103.mp3)

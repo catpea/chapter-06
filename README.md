@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [On Growing Out Of Indoctrination](docs/poem-1109.mp3)
 - [It Is Loose](docs/poem-1108.mp3)
 - [Quirkedy Quirks](docs/poem-1107.mp3)
 - [One Language To Fix The World; Or, The Fancy Pantsy Programmer Cats](docs/poem-1106.mp3)

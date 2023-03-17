@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Our Philosophers; Or, A Note About Inheriting Their Wisdom And Culture](docs/poem-1110.mp3)
 - [On Growing Out Of Indoctrination](docs/poem-1109.mp3)
 - [It Is Loose](docs/poem-1108.mp3)
 - [Quirkedy Quirks](docs/poem-1107.mp3)

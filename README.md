@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Nordhouse Days](docs/poem-1113.mp3)
 - [When A Wild Goose In On The Loose, Protect Your Caboose](docs/poem-1112.mp3)
 - [Michigan Spring; Or, What Do The Seagulls Bring?](docs/poem-1111.mp3)
 - [Our Philosophers; Or, A Note About Inheriting Their Wisdom And Culture](docs/poem-1110.mp3)

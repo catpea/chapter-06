@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Humanity Rising; Or, For The World To Bloom](docs/poem-1114.mp3)
 - [Nordhouse Days](docs/poem-1113.mp3)
 - [When A Wild Goose Is On The Loose, Protect Your Caboose](docs/poem-1112.mp3)
 - [Michigan Spring; Or, What Do The Seagulls Bring?](docs/poem-1111.mp3)

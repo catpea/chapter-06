@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [On The Subject Of Standardized Education Holding Humanity Back](docs/poem-1120.mp3)
 - [Resuming Where The Giants Left Off](docs/poem-1119.mp3)
 - [Legend Of Wobbles, The Mighty Warrior Queen From The Crabapple Tree](docs/poem-1118.mp3)
 - [Chaos To Chaos, A Sci-Fi Poem](docs/poem-1117.mp3)

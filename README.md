@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Dancing Yourself To Health; Or, Just Dance, And Don't Stop Under Any Circumstance](docs/poem-1124.mp3)
 - [Simple And Lightweight Code](docs/poem-1123.mp3)
 - [For The World To Rise](docs/poem-1122.mp3)
 - [The Human Super-Culture Of Greatness At A Glance](docs/poem-1121.mp3)

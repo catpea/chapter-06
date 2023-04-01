@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Endurance, Trance, And The Window](docs/poem-1125.mp3)
 - [Dancing Yourself To Health; Or, Just Dance, And Don't Stop Under Any Circumstance](docs/poem-1124.mp3)
 - [Simple And Lightweight Code](docs/poem-1123.mp3)
 - [For The World To Rise](docs/poem-1122.mp3)

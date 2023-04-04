@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [An Escape From The Dark Ages Of Programming](docs/poem-1128.mp3)
 - [Beyond Conspiracy Theories](docs/poem-1127.mp3)
 - [To The Next Great Human Plateau](docs/poem-1126.mp3)
 - [Endurance, Trance, And The Window](docs/poem-1125.mp3)

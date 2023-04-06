@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Breaking: Michigan Government Rules Against Use Of Vehicles When Commuting To The Gym](docs/poem-1130.mp3)
 - [The Importance Of Self Education](docs/poem-1129.mp3)
 - [An Escape From The Dark Ages Of Programming](docs/poem-1128.mp3)
 - [Beyond Conspiracy Theories](docs/poem-1127.mp3)

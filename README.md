@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Strangeness In Politics](docs/poem-1132.mp3)
 - [The Creatures Of Supercluster Laniakea](docs/poem-1131.mp3)
 - [Breaking: Michigan Government Rules Against Use Of Vehicles When Commuting To The Gym](docs/poem-1130.mp3)
 - [The Importance Of Self Education](docs/poem-1129.mp3)

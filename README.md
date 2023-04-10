@@ -9,7 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [Standardized Education Is Impossible Fantasy, Because Learning Requires A Unique Sequence](docs/poem-1134.mp3)
+- [Standardized Education Is An Impossible Fantasy, Because Learning Requires A Unique Sequence](docs/poem-1134.mp3)
 - [Shoulders To Stand On](docs/poem-1133.mp3)
 - [The Strangeness In Politics](docs/poem-1132.mp3)
 - [The Creatures Of Supercluster Laniakea](docs/poem-1131.mp3)

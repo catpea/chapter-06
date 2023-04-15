@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning Programming By Writing Cute Little Programs](docs/poem-1139.mp3)
 - [The Human Culture Is A Culture Of Greatness, And Growing Up, Is For All](docs/poem-1138.mp3)
 - [Programming Is Really Neat](docs/poem-1137.mp3)
 - [Alien Communication Intercept: Local Team To Interstellar Scoutship Oumuamua (A sci-fi poem)](docs/poem-1136.mp3)

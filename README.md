@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [To Correct Humanity's Course](docs/poem-1142.mp3)
 - [Programming, The Fourth Subject; Or, Start Learning In The Middle With Promising Blank Platforms](docs/poem-1141.mp3)
 - [Where To Begin In Life](docs/poem-1140.mp3)
 - [Learning Programming By Writing Cute Little Programs](docs/poem-1139.mp3)

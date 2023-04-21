@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Education And Adventure](docs/poem-1145.mp3)
 - [Programming For World Peace](docs/poem-1144.mp3)
 - [Programming Is Not Hard; You Just Need Real Context](docs/poem-1143.mp3)
 - [To Correct Humanity's Course](docs/poem-1142.mp3)

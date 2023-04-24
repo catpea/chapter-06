@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Building On Principle; Or, How To Come Up With Neat Little Startup Ideas](docs/poem-1148.mp3)
 - [Early Artificial Intelligence Has Already Changed Education](docs/poem-1147.mp3)
 - [Little Empires](docs/poem-1146.mp3)
 - [Education And Adventure](docs/poem-1145.mp3)

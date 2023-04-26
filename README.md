@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming Interviews Are A Mistake](docs/poem-1150.mp3)
 - [Shopping Etiquette](docs/poem-1149.mp3)
 - [Building On Principle; Or, How To Come Up With Neat Little Startup Ideas](docs/poem-1148.mp3)
 - [Early Artificial Intelligence Has Already Changed Education](docs/poem-1147.mp3)

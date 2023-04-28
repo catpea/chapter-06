@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Tiny Michigan Paradise](docs/poem-1152.mp3)
 - [Towards Web Security](docs/poem-1151.mp3)
 - [Programming Interviews Are A Mistake](docs/poem-1150.mp3)
 - [Shopping Etiquette](docs/poem-1149.mp3)

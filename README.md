@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming For Education And Future; Or, The Computer Program That We Must Each Write](docs/poem-1153.mp3)
 - [A Tiny Michigan Paradise](docs/poem-1152.mp3)
 - [Towards Web Security](docs/poem-1151.mp3)
 - [Programming Interviews Are A Mistake](docs/poem-1150.mp3)

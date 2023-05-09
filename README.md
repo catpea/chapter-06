@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Power Programming With Application Models, One Way Programs, And Metadata](docs/poem-1163.mp3)
 - [The Unbelievable World Of Strange Metaprogrammers](docs/poem-1162.mp3)
 - [For A World United In Greatness](docs/poem-1161.mp3)
 - [Dancing With Dumbbells; Or, Strange Workout Music Observations, And A Bit Of Good Advice](docs/poem-1160.mp3)

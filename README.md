@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Sweet And Fancy Allure Of Web Security](docs/poem-1165.mp3)
 - [Michigan Bug Report](docs/poem-1164.mp3)
 - [Power Programming With One Way Programs, Metadata, And Application Models](docs/poem-1163.mp3)
 - [The Unbelievable World Of Strange Metaprogrammers](docs/poem-1162.mp3)

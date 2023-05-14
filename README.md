@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming, A Real Superpower](docs/poem-1168.mp3)
 - [Programming Patterns Are Your Happy Little Friends](docs/poem-1167.mp3)
 - [High School Trouble](docs/poem-1166.mp3)
 - [The Sweet And Fancy Allure Of Web Security](docs/poem-1165.mp3)

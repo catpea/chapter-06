@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Secret Doodads Of Cyberspace: What The Heck Is A Finite State Machine?](docs/poem-1172.mp3)
 - [Is Philosophy Optional? Or, What Does It Even Do...](docs/poem-1171.mp3)
 - [And What The Heck Is Philosophy Anyway?](docs/poem-1170.mp3)
 - [Programming, Wisdom, And The Future](docs/poem-1169.mp3)

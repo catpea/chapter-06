@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don’t Let The World Stress You Out](docs/poem-1183.mp3)
 - [A 156 Days Until Halloween, And A Tail of Tales](docs/poem-1182.mp3)
 - [Programming In Reverse](docs/poem-1181.mp3)
 - [Sloshing, The Rite Of Sausage, And, Yes! You Can Outrun A Donut](docs/poem-1180.mp3)

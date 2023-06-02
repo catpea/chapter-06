@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Doodle Diagrams; For Learning, Programming, and Tactical Office Shenanigans](docs/poem-1187.mp3)
 - [Growing Strong; Or, Humanity And Self Education](docs/poem-1186.mp3)
 - [Profound Self Education Is Now More Important Than Ever](docs/poem-1185.mp3)
 - [Your Teachers Manipulated You Into Cramming, Called You Hormones, And Still Think It's Funny](docs/poem-1184.mp3)

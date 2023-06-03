@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Advancing Human Kind Is Really Easy](docs/poem-1188.mp3)
 - [Doodle Diagrams; For Learning, Programming, and Tactical Office Shenanigans](docs/poem-1187.mp3)
 - [Growing Strong; Or, Humanity And Self Education](docs/poem-1186.mp3)
 - [Profound Self Education Is Now More Important Than Ever](docs/poem-1185.mp3)

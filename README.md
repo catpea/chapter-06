@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Playing With Computers](docs/poem-1191.mp3)
 - [How Engineering Failure Was The Only Way All Along](docs/poem-1190.mp3)
 - [A Sure Recipe For Deadly Bear Jerky; Or, A Weight-loss And Fitness Program For The Rest Of Us](docs/poem-1189.mp3)
 - [Advancing Human Kind Is Really Easy](docs/poem-1188.mp3)

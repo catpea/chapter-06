@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [From Visual Programming To A Smart And Annoying Little Company](docs/poem-1193.mp3)
 - [A Universe Of Your Own](docs/poem-1192.mp3)
 - [Playing With Computers](docs/poem-1191.mp3)
 - [How Engineering Failure Was The Only Way All Along](docs/poem-1190.mp3)

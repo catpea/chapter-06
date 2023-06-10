@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Long Camping Adventure At Lake Michigan](docs/poem-1195.mp3)
 - [The Road Towards Greatness](docs/poem-1194.mp3)
 - [From Visual Programming To A Smart And Annoying Little Company](docs/poem-1193.mp3)
 - [A Universe Of Your Own](docs/poem-1192.mp3)

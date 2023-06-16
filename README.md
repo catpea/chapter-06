@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Helping Students Identify Ineffective (Or Junk) Education](docs/poem-1201.mp3)
 - [Learn And Rise Above: Don’t Let The Parasites And Ghouls Scare You](docs/poem-1200.mp3)
 - [Discovering Your True Age](docs/poem-1199.mp3)
 - [On Ineffective Education And Fake Graduation](docs/poem-1198.mp3)

@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Computer Programming For All](docs/poem-1214.mp3)
 - [The Pet To Get; Or, A Tiny Step Towards Working With Animals](docs/poem-1213.mp3)
 - [I Am Lake](docs/poem-1212.mp3)
 - [Where The Giants Leave Off](docs/poem-1211.mp3)

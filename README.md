@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Today, Politics Is A Mental Illness; But We Can Fix This By Replacing Politicians With House Cats](docs/poem-1215.mp3)
 - [Computer Programming For All](docs/poem-1214.mp3)
 - [The Pet To Get; Or, A Tiny Step Towards Working With Animals](docs/poem-1213.mp3)
 - [I Am Lake](docs/poem-1212.mp3)
